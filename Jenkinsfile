@@ -1,6 +1,1 @@
-echo "{  
-       "name":       "sonoo",   
-       "salary":      56000,   
-     "married":    true  
-   }  
-}"
+echo "HELLO WELCOME"
